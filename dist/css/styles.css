@@ -3727,6 +3727,11 @@ textarea.form-control-lg {
   display: block;
 }
 
+.tab {
+  display: inline-block;
+  margin-left: 10x;
+}
+
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
